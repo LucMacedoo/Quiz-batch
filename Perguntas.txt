@@ -1,0 +1,234 @@
+P:Qual bicho transmite Doença de Chagas?
+R:D
+A:Abelha
+A:Barata
+A:Pulga
+A:Barbeiro
+P:Qual fruto é conhecido no Norte e Nordeste como "jerimum"?
+R:B
+A:Caju
+A:Abóbora
+A:Chuchu
+A:Côco
+P:Qual é o coletivo de cães?
+R:A
+A:Matilha
+A:Rebanho
+A:Alcateia
+A:Manada
+P:Qual é o triangulo que tem todos os lados diferentes?
+R:C
+A:Equilátero
+A:Isóceles
+A:Escaleno
+A:Trapézio
+P:Quem compôs o Hino da Independência?
+R:A
+A:Dom Pedro I.
+A:Manuel Bandeira
+A:Castro Alvez
+A:Carlos Gomes
+P:Qual é o antônimo de "malograr"?
+R:C
+A:Perder
+A:Fracassar
+A:Conseguir
+A:Desprezar
+P:Em que país nasceu Carmem Miranda?
+R:C
+A:Brasil
+A:Espanha
+A:Portugal
+A:Argentina
+P:Qual foi o último Presidente do período da ditadura militar no Brasil?
+R:B
+A:Costa e Silva
+A:Joao Figueiredo
+A:Ernesto Geisel
+A:Emilio Medici
+P:Seguindo a sequência do baralho, qual carta vem depois do dez?
+R:B
+A:Rei
+A:Valete
+A:Nove
+A:Às
+P:O adjetivo "venoso" está relacionado ao que?
+R:D
+A:Vela
+A:Vento
+A:Vênia
+A:Veia
+P:Que nome se dá à purificação por meio da àgua?
+R:C
+A:Abolição
+A:Abnegação
+A:Ablução
+A:Abrupção
+P:Qual montanha se localiza entre a fronteira do Tibet com o Nepal?
+R:A
+A:Monte Everest
+A:Monte Carlo
+A:Monte Fuji
+A:Monte Branco
+P:Em que parte do corpo se encontra a epiglote?
+R:D
+A:Estômago
+A:Pâncreas
+A:Rim
+A:Boca
+P:Qual é a moeda oficial dos Estados Unidos?
+R:C
+A:Escudo
+A:Coroa
+A:Dólar
+A:Libra
+P:Que animal da fauna brasileira está retratado na nota de dez reais?
+R:C
+A:Jabuti
+A:Onça
+A:Arara
+A:Tucano
+P:Quingentésimo corresponde a qual número?
+R:A
+A:500
+A:5000
+A:50
+A:5
+P:Que profissional usa uma ferramenta chamada formão?
+R:A
+A:Carpinteiro
+A:Relojoeiro
+A:Confeiteiro
+A:Bombeiro
+P:Quando começou e terminou a Primeira Guerra Mundial?
+R:A
+A:1914-1918
+A:1902-1908
+A:1920-1930
+A:1912-1915
+P:O samba é uma dança originária de onde?
+R:B
+A:Europa
+A:África
+A:Ásia
+A:América do Sul
+P:Qual flor é o simbolo nacional do Egito e foi considerada sagrada na antiguidade?
+R:D
+A:Rosa
+A:Lírio
+A:Jasmim
+A:Lotus
+P:Até a chegada de Cortês na América, Montezuma era o líder de qual povo?
+R:B
+A:Maia
+A:Azteca
+A:Inca
+A:Guarani
+P:Qual era a nacionalidade do escritor Oscar Wilde?
+R:A
+A:Irlandês
+A:Alemão
+A:Inglês
+A:Americano
+P:Que fruta é ressecada para se tornar uma ameixa seca?
+R:A
+A:Ameixa
+A:Uva
+A:Pêssego
+A:Melão
+P:Um século tem quantos anos?
+R:B
+A:50
+A:100
+A:1000
+A:1500
+P:Quantas folhas tem um trevo da sorte?
+R:B
+A:Três
+A:Quatro
+A:Cinco
+A:Seis
+P:O que é a Via Láctea?
+R:D
+A:Marca de leite
+A:Civilização antiga
+A:Marca de carro
+A:Galáxia
+P:Em que ano a atriz Vera Fischer foi Miss Brasil?
+R:D
+A:1955
+A:1982
+A:1980
+A:1969
+P:O poema "O navio negreiro" foi escrito por qual poeta brasileiro?
+R:C
+A:Álvares de Azevedo
+A:Manuel Bandeira
+A:Castro Alves
+A:Augusto dos Anjos
+P:Quem foi o último rei da Macedônia?
+R:C
+A:Prometeu
+A:Hércules
+A:Perseu
+A:Dioniso
+P:Qual era o apelido da cantora Elis Regina?
+R:C
+A:Gauchinha
+A:Paulistinha
+A:Pimentinha
+A:Andorinha
+P:Qual é o signo do zodíaco de quem nasce no dia do ano-novo?
+R:A
+A:Capricórnio
+A:Áries
+A:Virgem
+A:Aquário
+P:Como é chamada a gravura impressa sobre pranchas de madeira?
+R:B
+A:Serigrafia
+A:Xilogravura
+A:Litografia
+A:Materografia
+P:Qual é a maior ilha da Europa?
+R:A
+A:Grã-Bretanha
+A:Irlanda
+A:Islândia
+A:Sicília
+P:Qual o sistema de transporte mais utilizado no Brasil?
+R:D
+A:Ferroviário
+A:Aéreo
+A:Hidroviário
+A:Rodoviário
+P:Em que país Leonardo da Vinci viveu seus últimos dias?
+R:C
+A:Espanha
+A:Holanda
+A:França
+A:Itália
+P:A que país pertence a Groenlândia?
+R:A
+A:Dinamarca
+A:Inglaterra
+A:Noruega
+A:Estados Unidos
+P:As ilhas Malvinas também são chamadas de:
+R:D
+A:Stanley
+A:Wedells
+A:Medanosa
+A:Falkland
+P:Em que ano foi inaugurada a estátua do Cristo Redentor no Rio de Janeiro?
+R:B
+A:1921
+A:1931
+A:1941
+A:1951
+P:Que cidade foi capital do Império Inca?
+R:D
+A:La Paz
+A:Buenos Aires
+A:Bogotá
+A:Cuzco
