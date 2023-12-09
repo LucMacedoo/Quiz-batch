@@ -18,3 +18,7 @@ Vale lembrar algumas coisas:
 4. As alternativas são sorteadas, ou seja, se você jogar 2 vezes e aparecer a mesma pergunta, você perceberá as ordens diferentes das alternativas
 5. Você pode jogar quantas vezes quiser
 6. Você pode mudar seu nome
+
+## Motivo do projeto
+
+Projeto feito para testar a lógica de programação em um ambiente diferenciado dos convencionais.
