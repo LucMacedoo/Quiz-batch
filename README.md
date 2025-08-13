@@ -1,34 +1,42 @@
-# Quiz-batch
+# Quiz em Batch
 
-Bem-vindo ao meu projeto de quiz em Batch! Este é um simples jogo de perguntas e respostas desenvolvido em Batch Script.
+Bem-vindo ao meu projeto **quiz em Batch File**! 
+Este é um jogo de perguntas e respostas desenvolvido utilizando scripts Batch para Windows, com foco em aprendizado e prática de lógica de programação, manipulação de arquivos e interação com usuário no terminal.
 
-## Como Jogar
+## Sobre o projeto
 
-1. Abra o arquivo gameQuiz.bat
-2. Digite seu nome
-3. Escolha a opção que desejar
-4. Caso inicie o jogo, leia atentamente a pergunta e responda uma das alternativas
-5. Faça isto até concluir todas as 10 perguntas, você terá o resultado final após isto
+Este projeto foi criado com o objetivo de consolidar conhecimentos adquiridos ao longo do período da faculdade, explorando a criação de menus criativos, controle de fluxo, tratamento de entradas no prompt de comando e manipulação de arquivos txt. A aplicação é totalmente executada no terminal e permite ao usuário testar seus conhecimentos de forma divertida e rápida.
 
-Vale lembrar algumas coisas: 
+## Funcionalidades
 
-1. São 10 perguntas em cada jogo inicializado
-2. As perguntas não se repetem em um jogo
-3. Você pode pular 2 vezes
-4. As alternativas são sorteadas, ou seja, se você jogar 2 vezes e aparecer a mesma pergunta, você perceberá as ordens diferentes das alternativas
-5. Você pode jogar quantas vezes quiser
-6. Você pode mudar seu nome
+Ao executar o programa, o usuário terá acesso as seguintes funcionalidades:
 
-## Baixar
+1. **Inserir nome**
+   Para personalizar a experiência, o jogo pede para você inserir um nome para o usuário.
 
-Para baixar abra o terminal no diretório que deseja salvar o arquivo e digite:
+2. **Menu interativo**
+   Com opções para jogar, ver regras, mudar nome e sair.
 
-```
+3. **Sistema de sorteio**
+   Para evitar repetição de perguntas e embaralhamento de alternativas.
+
+4. **Controle de pulos**
+   O usuário pode pular em até 2 questões por partida.
+
+5. **Pontuação automática**
+   Exibe a quantidade de acertos ao final de cada questão.
+
+---
+
+## Como executar
+
+### Requisitos
+
+- Prompt de Comando (cmd.exe)
+- Sistema Operacional Windows
+
+### Clonando o repositório
+
+```bash
 git clone https://github.com/LucMacedoo/Quiz-batch.git
-```
-
-Digitando somente isto você terá os arquivos dentro do seu computador
-
-## Motivo do projeto
-
-Projeto feito para testar a lógica de programação em um ambiente diferenciado dos convencionais.
+cd Quiz-batch
